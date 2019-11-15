@@ -1,0 +1,14 @@
+C:\Users\alejandrocervantes\source\repos\Inventarios\InventariosApi\bin\Release\netcoreapp2.2\InventariosApi.deps.json
+C:\Users\alejandrocervantes\source\repos\Inventarios\InventariosApi\bin\Release\netcoreapp2.2\InventariosApi.runtimeconfig.json
+C:\Users\alejandrocervantes\source\repos\Inventarios\InventariosApi\bin\Release\netcoreapp2.2\InventariosApi.runtimeconfig.dev.json
+C:\Users\alejandrocervantes\source\repos\Inventarios\InventariosApi\bin\Release\netcoreapp2.2\InventariosApi.dll
+C:\Users\alejandrocervantes\source\repos\Inventarios\InventariosApi\bin\Release\netcoreapp2.2\InventariosApi.pdb
+C:\Users\alejandrocervantes\source\repos\Inventarios\InventariosApi\obj\Release\netcoreapp2.2\InventariosApi.csprojAssemblyReference.cache
+C:\Users\alejandrocervantes\source\repos\Inventarios\InventariosApi\obj\Release\netcoreapp2.2\InventariosApi.csproj.CoreCompileInputs.cache
+C:\Users\alejandrocervantes\source\repos\Inventarios\InventariosApi\obj\Release\netcoreapp2.2\InventariosApi.RazorAssemblyInfo.cache
+C:\Users\alejandrocervantes\source\repos\Inventarios\InventariosApi\obj\Release\netcoreapp2.2\InventariosApi.RazorAssemblyInfo.cs
+C:\Users\alejandrocervantes\source\repos\Inventarios\InventariosApi\obj\Release\netcoreapp2.2\InventariosApi.AssemblyInfoInputs.cache
+C:\Users\alejandrocervantes\source\repos\Inventarios\InventariosApi\obj\Release\netcoreapp2.2\InventariosApi.AssemblyInfo.cs
+C:\Users\alejandrocervantes\source\repos\Inventarios\InventariosApi\obj\Release\netcoreapp2.2\InventariosApi.RazorTargetAssemblyInfo.cache
+C:\Users\alejandrocervantes\source\repos\Inventarios\InventariosApi\obj\Release\netcoreapp2.2\InventariosApi.dll
+C:\Users\alejandrocervantes\source\repos\Inventarios\InventariosApi\obj\Release\netcoreapp2.2\InventariosApi.pdb
